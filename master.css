@@ -1,5 +1,5 @@
 body {
-    background: #fff!important;
+    background: #fff !important;
 }
 
 /* Custom icon */
@@ -23,39 +23,39 @@ body {
 }
 
 #header {
-    background: #000!important;
-    height: 80px!important;
+    background: #000 !important;
+    height: 80px !important;
     padding-top: 10px;
     padding-bottom: 15px;
     padding-left: 5px;
 }
 
 #header .login a {
-    color: #fff!important;
+    color: #fff !important;
     width: 300px;
 }
 
 #header .login a:hover {
-    color: #ccc!important;
-    text-decoration: none!important;
+    color: #ccc !important;
+    text-decoration: none !important;
 }
 
 /*Search box*/
 #header .searchbox, #header .login {
-    padding-top: 15px!important;
+    padding-top: 15px !important;
 }
 
-#filter-box,#search-box {
-    padding: 3px!important;
-    box-shadow: none!important;
-    background-image: none!important;
-    border: 1px solid #DDD!important;
-    border-radius: 2px!important;
-    outline: 0!important;
+#filter-box, #search-box {
+    padding: 3px !important;
+    box-shadow: none !important;
+    background-image: none !important;
+    border: 1px solid #DDD !important;
+    border-radius: 2px !important;
+    outline: 0 !important;
 }
 
 .yui-skin-sam .yui-ac {
-    margin-top: 3px!important;
+    margin-top: 3px !important;
 }
 
 #searchform a {
@@ -75,61 +75,60 @@ body {
 
 /*Enable auto refresh*/
 #right-top-nav a {
-    color: #fff!important;
+    color: #fff !important;
     margin-top: 1px;
     text-decoration: none;
     display: block;
     padding-left: 5px;
     padding-right: 5px;
-    height: 30px!important;
+    height: 30px !important;
 }
 
 #right-top-nav a:hover {
     background: #fff;
-    color: #505050!important;
+    color: #505050 !important;
 }
 
 #main-table {
-    background: #fff!important;
-    background-image: none!important;
-    height: 100%!important;
+    background: #fff none !important;
+    height: 100% !important;
 }
 
 #footer-container {
-    background: rgba(0,0,0,.05)!important;
-    border: none!important;
+    background: rgba(0, 0, 0, .05) !important;
+    border: none !important;
 }
 
-#footer>a {
-    color: #32a632!important;
+#footer > a {
+    color: #32a632 !important;
 }
 
 #footer-container {
 }
 
 a {
-    color: #32a632!important;
-    text-decoration: none!important;
+    color: #32a632 !important;
+    text-decoration: none !important;
 }
 
 a:hover {
-    color: #206b20!important;
-    text-decoration: none!important;
+    color: #206b20 !important;
+    text-decoration: none !important;
 }
 
 #projectstatus {
-    margin-bottom: 30px!important;
+    margin-bottom: 30px !important;
 }
 
-#projectstatus th>a,th,th>a {
-    background: inherit!important;
-    color: #000!important;
+#projectstatus th > a, th, th > a {
+    background: inherit !important;
+    color: #000 !important;
     font-size: 13px;
     text-align: left;
 }
 
-body>tr:first-of-type {
-    border-bottom: 1px solid rgba(0,0,0,.1)!important;
+body > tr:first-of-type {
+    border-bottom: 1px solid rgba(0, 0, 0, .1) !important;
 }
 
 table[style="margin-top: 1em; margin-left:1em;"] td {
@@ -137,97 +136,97 @@ table[style="margin-top: 1em; margin-left:1em;"] td {
 }
 
 tr {
-    border-bottom: 1px solid rgba(0,0,0,.1)!important;
-    border-left: none!important;
-    border-right: none!important;
-    border-top: none!important;
+    border-bottom: 1px solid rgba(0, 0, 0, .1) !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
 }
 
-#projectstatus td,.bigtable td {
-    padding: 10px!important;
+#projectstatus td, .bigtable td {
+    padding: 10px !important;
 }
 
-#projectstatus tr:nth-child(even)>td,.bigtable tr:nth-child(even)>td {
-    background: rgba(0,0,0,.075)!important;
+#projectstatus tr:nth-child(even) > td, .bigtable tr:nth-child(even) > td {
+    background: rgba(0, 0, 0, .075) !important;
 }
 
-#projectstatus tr:nth-child(odd)>td,.bigtable tr:nth-child(odd)>td {
-    background: rgba(0,0,0,.025)!important;
+#projectstatus tr:nth-child(odd) > td, .bigtable tr:nth-child(odd) > td {
+    background: rgba(0, 0, 0, .025) !important;
 }
 
-#projectstatus tr th:first-child,.bigtable tr th:first-child {
+#projectstatus tr th:first-child, .bigtable tr th:first-child {
     padding: 10px;
-    #background: rgba(0,0,0,.1)!important;
+    #background: rgba(0, 0, 0, .1) !important;
 }
 
-#projectstatus,.bigtable {
-    border: 1px solid rgba(0,0,0,.1)!important;
+#projectstatus, .bigtable {
+    border: 1px solid rgba(0, 0, 0, .1) !important;
 }
 
 .bigtable tr {
-    border: none!important;
+    border: none !important;
 }
 
 tr:hover {
-    background: inherit!important;
+    background: inherit !important;
 }
 
-table.pane>tbody>tr>td:last-child {
-    border-right: none!important;
+table.pane > tbody > tr > td:last-child {
+    border-right: none !important;
 }
 
 td.active {
-    background: #fff!important;
-    margin-top: -2px!important;
-    color: #32a632!important;
+    background: #fff !important;
+    margin-top: -2px !important;
+    color: #32a632 !important;
 }
 
 td.inactive {
-    border: none!important;
+    border: none !important;
 }
 
 #viewList {
-    margin-bottom: 15px!important;
-    border: 1px solid rgba(0,0,0,.1)!important;
+    margin-bottom: 15px !important;
+    border: 1px solid rgba(0, 0, 0, .1) !important;
 }
 
 .dashboard {
-    margin-top: 10px!important;
+    margin-top: 10px !important;
 }
 
 .dashboard td {
-    vertical-align: middle!important;
+    vertical-align: middle !important;
 }
 
 .build-monitor.dashboard {
-    margin-top: 0!important;
+    margin-top: 0 !important;
 }
 
 .build-monitor a {
-    color: #ddd!important;
+    color: #ddd !important;
 }
 
 td.inactive a {
-    color: #505050!important;
+    color: #505050 !important;
 }
 
 td {
-    border: none!important;
-    padding-right: 5px!important;
+    border: none !important;
+    padding-right: 5px !important;
     height: 25px;
-    font-size: 13px!important;
+    font-size: 13px !important;
 }
 
 td.inactive:hover {
-    background: #fff!important;
+    background: #fff !important;
 }
 
 #side-panel {
-    background: rgba(0,0,0,.05)!important;
-    padding-left: 0!important;
-    padding-right: 0!important;
-    height: 100%!important;
-    position: absolute!important;
+    background: rgba(0, 0, 0, .05) !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    height: 100% !important;
+    position: absolute !important;
 }
 
 #side-panel div {
@@ -236,101 +235,101 @@ td.inactive:hover {
 }
 
 #side-panel tr {
-    border: none!important;
+    border: none !important;
 }
 
 #main-panel {
-    height: 100%!important;
-    float: right!important;
+    height: 100% !important;
+    float: right !important;
 }
 
 table {
-    margin: 0!important;
-    padding: 0!important;
-    border-spacing: 0!important;
-    border: none!important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-spacing: 0 !important;
+    border: none !important;
 }
 
 #noJobDiv {
-    border: none!important;
+    border: none !important;
 }
 
-.subtasks>a,.task>a {
-    color: #505050!important;
+.subtasks > a, .task > a {
+    color: #505050 !important;
 }
 
 .subtasks:empty {
     display: none;
 }
 
-.subtasks,.task {
-    min-height: 38px!important;
+.subtasks, .task {
+    min-height: 38px !important;
 }
 
 #resizeContainer {
-    border: none!important;
+    border: none !important;
 }
 
 #description {
-    margin: 0!important;
+    margin: 0 !important;
     overflow: auto;
 }
 
-td.pane,tr.build-row>td {
-    background: rgba(0,0,0,.05)!important;
-    border-left: 1px solid #f0f0f0!important;
-    border-bottom: 1px solid #f0f0f0!important;
+td.pane, tr.build-row > td {
+    background: rgba(0, 0, 0, .05) !important;
+    border-left: 1px solid #f0f0f0 !important;
+    border-bottom: 1px solid #f0f0f0 !important;
     text-align: left;
 }
 
-td.pane:first-of-type,td.pane:last-of-type,th.pane:first-of-type,tr.build-row>td:first-of-type,tr.build-row>td:last-of-type {
-    border-left: none!important;
+td.pane:first-of-type, td.pane:last-of-type, th.pane:first-of-type, tr.build-row > td:first-of-type, tr.build-row > td:last-of-type {
+    border-left: none !important;
 }
 
-.build-row:last-of-type>td {
-    padding-top: 10px!important;
-    background: inherit!important;
+.build-row:last-of-type > td {
+    padding-top: 10px !important;
+    background: inherit !important;
 }
 
 form {
     clear: both;
 }
 
-.pane-header,.pane-header>a {
-    color: #505050!important;
+.pane-header, .pane-header > a {
+    color: #505050 !important;
 }
 
 .pane-frame {
     border: none;
 }
 
-th.pane,tr.build-row>th {
-    background: rgba(0,0,0,.1)!important;
-    border: 1px solid #f0f0f0!important;
+th.pane, tr.build-row > th {
+    background: rgba(0, 0, 0, .1) !important;
+    border: 1px solid #f0f0f0 !important;
     text-align: left;
     text-indent: 3px;
 }
 
 button {
-    color: #505050!important;
-    -webkit-border-radius: 5px!important;
-    -moz-border-radius: 5px!important;
-    border-radius: 5px!important;
-    background: #F0F0F0!important;
-    outline: 0!important;
+    color: #505050 !important;
+    -webkit-border-radius: 5px !important;
+    -moz-border-radius: 5px !important;
+    border-radius: 5px !important;
+    background: #F0F0F0 !important;
+    outline: 0 !important;
 }
 
-.section-header,label {
-    color: #1d1d1d!important;
+.section-header, label {
+    color: #1d1d1d !important;
 }
 
-#description>div:nth-of-type(1) {
+#description > div:nth-of-type(1) {
     float: left;
     margin-top: 10px;
     overflow: auto;
 }
 
-#description>div:nth-of-type(2) {
+#description > div:nth-of-type(2) {
     width: 150px;
     margin-right: 10px;
     margin-top: 10px;
@@ -344,11 +343,11 @@ button {
 a.task-icon-link {
     padding-left: 18px;
     margin-left: 8px;
-    vertical-align: middle!important;
+    vertical-align: middle !important;
 }
 
 a.task-icon-link img {
-    display: none!important;
+    display: none !important;
 }
 
 img[src$="16x16/help.png"] {
@@ -362,136 +361,136 @@ img[src$="16x16/help.png"] {
 }
 
 a[href*="/job/"].task-icon-link {
-    background: url(img/return.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/return.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 #tasks div:nth-child(2) a[href*="/job/"].task-icon-link {
-    background: url(img/project.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/project.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*=newJob].task-icon-link {
-    background: url(img/newjob.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/newjob.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*="/asynchPeople/"].task-icon-link {
-    background: url(img/people.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/people.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*="/builds"].task-icon-link {
-    background: url(img/history.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/history.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href="/projectRelationship"].task-icon-link {
-    background: url(img/project.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/project.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*="/fingerprint"].task-icon-link {
-    background: url(img/finger.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/finger.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href="/manage"].task-icon-link {
-    background: url(img/manage.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/manage.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*="/credential-store"].task-icon-link {
-    background: url(img/lock.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/lock.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*=repository].task-icon-link {
-    background: url(img/maven.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/maven.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href="/me/my-views"].task-icon-link {
-    background: url(img/views.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/views.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href="/"].task-icon-link {
-    background: url(img/return.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/return.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*=changes].task-icon-link {
-    background: url(img/paper.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/paper.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*="/ws/"].task-icon-link {
-    background: url(img/folder.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/folder.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*=configure].task-icon-link {
-    background: url(img/manage.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/manage.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*=modules].task-icon-link {
-    background: url(img/views.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/views.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*="build?"].task-icon-link {
-    background: url(img/build.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/build.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*=javadoc].task-icon-link {
-    background: url(img/box.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/box.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*=console].task-icon-link {
-    background: url(img/console.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/console.png) no-repeat !important;
+    background-size: contain !important;
 }
 
-a[href*=Delete].task-icon-link,a[href*=delete].task-icon-link {
-    background: url(img/x.png) no-repeat!important;
-    background-size: contain!important;
+a[href*=Delete].task-icon-link, a[href*=delete].task-icon-link {
+    background: url(img/x.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*=git].task-icon-link {
-    background: url(img/git.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/git.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*="/testReport"].task-icon-link {
-    background: url(img/clip.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/clip.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 a[href*="/redeploy"].task-icon-link {
-    background: url(img/redeploy.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/redeploy.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 div.task a[href="#"]:first-child {
-    background: url(img/x.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/x.png) no-repeat !important;
+    background-size: contain !important;
     padding-left: 18px;
     margin-left: 8px;
-    vertical-align: middle!important;
+    vertical-align: middle !important;
 }
 
 a.build-health-link {
     padding-left: 24px;
     margin-left: 12px;
-    vertical-align: middle!important;
+    vertical-align: middle !important;
 }
 
-a.build-health-link img,td img[src*=health] {
-    display: none!important;
+a.build-health-link img, td img[src*=health] {
+    display: none !important;
 }
 
 img[src*="copyright-vertical.png"] {
@@ -499,88 +498,88 @@ img[src*="copyright-vertical.png"] {
 }
 
 td.healthReport a.build-health-link {
-    background: url(img/cloud.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/cloud.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 td.healthReport[data="100"] a.build-health-link {
-    background: url(img/sun.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/sun.png) no-repeat !important;
+    background-size: contain !important;
 }
 
 #projectstatus td a[href*="build?"] {
-    background: url(img/build.png) no-repeat!important;
-    background-size: contain!important;
+    background: url(img/build.png) no-repeat !important;
+    background-size: contain !important;
     padding-left: 24px;
     margin-left: 12px;
 }
 
 #projectstatus td a[href*="build?"] img {
-    display: none!important;
+    display: none !important;
 }
 
 td:first-child a[href=javadoc] {
-    background: url(img/box.png) no-repeat!important;
-    background-size: contain!important;
-    padding: 24px!important;
-    display: block!important;
+    background: url(img/box.png) no-repeat !important;
+    background-size: contain !important;
+    padding: 24px !important;
+    display: block !important;
 }
 
 a[href=javadoc] img {
-    display: none!important;
+    display: none !important;
 }
 
 td:first-child a[href="ws/"] {
-    background: url(img/folder.png) no-repeat!important;
-    background-size: contain!important;
-    padding: 24px!important;
-    display: block!important;
+    background: url(img/folder.png) no-repeat !important;
+    background-size: contain !important;
+    padding: 24px !important;
+    display: block !important;
 }
 
 a[href="ws/"] img {
-    display: none!important;
+    display: none !important;
 }
 
 td:first-child a[href=changes] {
-    background: url(img/paper.png) no-repeat!important;
-    background-size: contain!important;
-    padding: 24px!important;
+    background: url(img/paper.png) no-repeat !important;
+    background-size: contain !important;
+    padding: 24px !important;
 }
 
-#main-panel>table a[href="lastSuccessfulBuild/artifact/"] {
-    background: url(img/target.png) no-repeat!important;
-    background-size: contain!important;
-    padding: 24px!important;
-    padding-left: 70px!important;
-    display: block!important;
-    margin-left: -60px!important;
+#main-panel > table a[href="lastSuccessfulBuild/artifact/"] {
+    background: url(img/target.png) no-repeat !important;
+    background-size: contain !important;
+    padding: 24px !important;
+    padding-left: 70px !important;
+    display: block !important;
+    margin-left: -60px !important;
 }
 
-#main-panel>table a[href*="lastSuccessfulBuild/artifact/target/"]:first-child {
-    padding-left: 50px!important;
-    display: block!important;
+#main-panel > table a[href*="lastSuccessfulBuild/artifact/target/"]:first-child {
+    padding-left: 50px !important;
+    display: block !important;
     margin-top: -20px;
-    color: #505050!important;
+    color: #505050 !important;
 }
 
-#main-panel>table .fileSize {
-    padding-left: 30px!important;
-    display: block!important;
+#main-panel > table .fileSize {
+    padding-left: 30px !important;
+    display: block !important;
     margin-top: -20px;
 }
 
-#main-panel>table .fileList img,#main-panel>table a[href*="*view*"],#main-panel>table>tbody>tr img[src*=clipboard],#main-panel>table>tbody>tr img[src*=package] {
-    display: none!important;
+#main-panel > table .fileList img, #main-panel > table a[href*="*view*"], #main-panel > table > tbody > tr img[src*=clipboard], #main-panel > table > tbody > tr img[src*=package] {
+    display: none !important;
 }
 
-#main-panel>table>tbody a[href*=".jar"] {
-    font-weight: 700!important;
-    color: #666!important;
-    vertical-align: middle!important;
+#main-panel > table > tbody a[href*=".jar"] {
+    font-weight: 700 !important;
+    color: #666 !important;
+    vertical-align: middle !important;
 }
 
 a[href=changes] img {
-    display: none!important;
+    display: none !important;
 }
 
 a[href="ws/"] tr {
@@ -588,22 +587,22 @@ a[href="ws/"] tr {
 }
 
 td[style="vertical-align:middle"] a[href="ws/"] {
-    background: transparent!important;
+    background: transparent !important;
 }
 
-#main-panel h1 img,a[href="#"] img {
-    display: none!important;
+#main-panel h1 img, a[href="#"] img {
+    display: none !important;
 }
 
 textarea {
-    max-width: 500px!important;
+    max-width: 500px !important;
 }
 
 #systemmessage {
     padding: 10px;
     margin-bottom: 5px;
-    background: rgba(0,0,0,.05);
-    border-bottom: 1px solid rgba(0,0,0,.075);
+    background: rgba(0, 0, 0, .05);
+    border-bottom: 1px solid rgba(0, 0, 0, .075);
 }
 
 #systemmessage:empty {
@@ -611,21 +610,21 @@ textarea {
 }
 
 li.children {
-    background: none!important;
-    width: 0!important;
-    height: 0!important;
-    border-top: 4px solid transparent!important;
-    border-bottom: 4px solid transparent!important;
-    border-left: 5px solid #F0F0F0!important;
+    background: none !important;
+    width: 0 !important;
+    height: 0 !important;
+    border-top: 4px solid transparent !important;
+    border-bottom: 4px solid transparent !important;
+    border-left: 5px solid #F0F0F0 !important;
     margin-right: 5px;
     margin-left: 5px;
     margin-top: 15px;
 }
 
 li.children:hover {
-    border-top: 4px solid transparent!important;
-    border-bottom: 4px solid transparent!important;
-    border-left: 5px solid #063!important;
+    border-top: 4px solid transparent !important;
+    border-bottom: 4px solid transparent !important;
+    border-left: 5px solid #063 !important;
 }
 
 li.item :first-of-type {
@@ -693,7 +692,7 @@ img[src$="aborted.png"],  img[src$="aborted.gif"],  img[src$="aborted_anime.gif"
     -moz-border-radius: 50%;
     padding: 0;
     border-radius: 50%;
-    background: rgba(0,0,0,0.1)
+    background: rgba(0, 0, 0, 0.1)
 }
 
 img[src*="blue.png"], img[src*="blue_anime.gif"] {
@@ -723,7 +722,7 @@ img[src*="progress-unknown.gif"], img[src*="progress-unknown-red.gif"] {
 }
 
 .build-health-icon {
-    padding: 0px;
+    padding: 0;
 }
 
 #executors tr:not(:first-of-type) > th.pane {
@@ -737,7 +736,7 @@ img[src*="progress-unknown.gif"], img[src*="progress-unknown-red.gif"] {
     text-overflow: ellipsis;
 }
 
-#main-panel>pre,body>pre {
+#main-panel > pre, body > pre {
     font-size: 13px;
     background: #2b303b;
     color: #c0c5ce;
@@ -747,7 +746,7 @@ img[src*="progress-unknown.gif"], img[src*="progress-unknown-red.gif"] {
     border-radius: 3px;
 }
 
-#main-panel>pre>a,body>pre>a {
-    color: #bf616a!important;
+#main-panel > pre > a, body > pre > a {
+    color: #bf616a !important;
     text-decoration: underline;
 }
